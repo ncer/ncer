@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&custom_title=ncer%27s%20GitHub%20Stats)](https://github.com/ncer)
+<!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&custom_title=ncer%27s%20GitHub%20Stats)](https://github.com/ncer)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncer&layout=compact&theme=dracula)](https://github.com/ncer)
 
